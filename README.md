@@ -10,10 +10,10 @@ Email: dhanushbm.mallikarjun@gmail.com
 
 
 
-🌱 I’m currently learning Data Science,Machine Learning, End to End projects and Databricks
+● 🌱 I’m currently learning Data Science,Machine Learning, End to End projects and Databricks
 
-👯 I’m looking to collaborate on Projects,Tech Articles
+● 👯 I’m looking to collaborate on Projects,Tech Articles
 
-💬 Talk to me about Python, Machine Learning, SQL, Freelancing Opportunites, Open Source, Statistics, Mathematics
+● 💬 Talk to me about Python, Machine Learning, SQL, Freelancing Opportunites, Open Source, Statistics, Mathematics
 
-😄 Words that describe me - Self-motivated, Focused, Extreme Hardworking & curious.
+● 😄 Words that describe me - Self-motivated, Focused, Extreme Hardworking & curious.
