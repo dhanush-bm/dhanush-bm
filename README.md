@@ -1,5 +1,5 @@
-# Dhanush-B-M
-Hello 👋, I'm Dhanush B M
+# Hello 👋, I'm Dhanush B M
+
 Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Science.
 
 Like many others, my initial interest lay in building real-world applications, I was fascinated by building logic for simple programming problems. I realized my passion upon switching to Business Intelligence and analytics. 
