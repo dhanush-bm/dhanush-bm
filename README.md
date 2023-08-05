@@ -10,7 +10,7 @@ Email: dhanushbm.mallikarjun@gmail.com
 
 
 
-● 🌱 I’m currently Masters's in Information System & Technologies at University of North Texas.
+● 🌱 I’m currently pursuing a Masters's degree in Information Systems & Technologies at University of North Texas.
 
 ● 👯 I’m looking to collaborate on Projects,Tech Articles
 
