@@ -1,4 +1,4 @@
-# Hello 👋, I'm Dhanush B M
+# Hello 👋, I'm Dhanush
 
 Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Science.
 
