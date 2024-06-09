@@ -14,6 +14,6 @@ Email: dhanushbm.mallikarjun@gmail.com
 
 ● 👯 I’m looking to collaborate on Projects,Tech Articles
 
-● 💬 Talk to me about Python, Machine Learning, SQL, Freelancing Opportunites, Finance, Open Source, Statistics, Mathematics
+● 💬 Talk to me about Python, Machine Learning, SQL, Freelancing Opportunites, Finance, Open Source, Statistics, Mathematics, Data
 
-● 😄 Words that describe me - Self-motivated, Focused, Extreme Hardworking & curious.
+● 😄 Words that describe me - Self-motivated, Focused, Smart & Hardworking & curious.
