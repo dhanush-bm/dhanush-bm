@@ -10,7 +10,8 @@ Email: dhanushbm.mallikarjun@gmail.com
 
 
 
-● 🌱 I’m currently Working as a Cloud Data Engineer at the North Texas Tollway Authority located.
+● 🌱 I’m currently Working as a Cloud Data Engineer at the North Texas Tollway Authority.
+
 ● 👯 I’m looking to collaborate on Projects,Tech Articles
 
 ● 💬 Talk to me about Python, Machine Learning, SQL, Freelancing Opportunites, Finance, Open Source, Statistics, Mathematics, Data
