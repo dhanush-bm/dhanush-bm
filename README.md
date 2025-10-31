@@ -6,7 +6,7 @@ Like many others, my initial interest lay in building real-world applications, I
 
 My programming, statistics & finance coursework has provided me with the analytical skills I apply to diverse business scenarios. My zeal to learn, coupled with my ability to collaborate and accomplish goals makes me well-suited for a career in the field of Data Science and business analytics. I look forward to the opportunity of being interviewed in order to share more about my experience and the skills that I could bring to any company.
 
-Email: dhanushbm.mallikarjun@gmail.com
+Email: dhanush.bijavara@gmail.com
 
 
 
